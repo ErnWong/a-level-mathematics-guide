@@ -1,0 +1,10 @@
+{
+    "plugins": [
+        "richquotes"
+    ],
+    "pluginsConfig": {
+        "fontSettings": {
+            "family": "serif"
+        }
+    }
+}

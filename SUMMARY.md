@@ -1,0 +1,20 @@
+# Summary
+
+* [Permutations and Combinations](permutations_and_combinations/README.md)
+   * [Counting](permutations_and_combinations/counting.md)
+   * [Adding Rule](permutations_and_combinations/counting_rules.md)
+       * [Adding Examples](permutations_and_combinations/examples.md)
+       * [Adding Quiz](permutations_and_combinations/checkpoint.md)
+   * [Multiplying Rule](permutations_and_combinations/multiplying_rule.md)
+   * [Repeated Addition](permutations_and_combinations/repeated_addition.md)
+   * [Multi-step Processes](permutations_and_combinations/multi-step_processes.md)
+   * [Avoid Duplicate Outcomes](permutations_and_combinations/avoid_duplicate_outcomes.md)
+   * [Arrangements](permutations_and_combinations/arrangements.md)
+       * [Placing Object by Object](permutations_and_combinations/placing_object_by_object.md)
+       * [Putting Objects into Boxes](permutations_and_combinations/putting_objects_into_boxes.md)
+       * [Assigning Objects to each Box](permutations_and_combinations/assigning_objects_to_each_box.md)
+   * [Factorial Notation](permutations_and_combinations/factorial_notation.md)
+   * [Permutations](permutations_and_combinations/permutations.md)
+   * [Examples of Permutations](permutations_and_combinations/examples_of_permutations.md)
+   * [Combinations](permutations_and_combinations/combinations.md)
+
