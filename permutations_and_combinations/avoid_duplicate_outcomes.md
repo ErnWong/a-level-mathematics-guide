@@ -30,6 +30,4 @@ If the model misses some of the possible outcomes, you need to add them back. Th
 
 In general, try to avoid duplicate outcomes, unless it is easier to subtract. Make sure you are absolutely certain in what you are doing, and not just doing it because it seems right.
 
-> **Example:** Bob tries to fit four people into a room (for some arbitrary reason), but only two people can be in it at once. The four people consists of
-
-For example,
+> **Example:** Bob tries to fit four people into a room (for some arbitrary reason), but only two people can be in it at once. The four people consists of two boys and two girls. How many different combination of people can he fit, if he fits two?
