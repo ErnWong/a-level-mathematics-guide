@@ -10,7 +10,7 @@ This is obvious, as you will see: If flipping a coin gives you two possible outc
 
 > **Caution:** I will now introduce a fancy term for something simple.
 
-If there are two mutually exclusive processes, \\(X\\) and \\(Y\\), with \\(x\\) and \\(y\\) outcomes respectively, then there are \\(x+y\\) different outcomes in total for the process “do \\(X\\) **or** \\(Y\\)''.
+If there are two *mutually exclusive* processes, \\(X\\) and \\(Y\\), with \\(x\\) and \\(y\\) outcomes respectively, then there are \\(x+y\\) different outcomes in total for the process “do \\(X\\) **or** \\(Y\\)''.
 
 Two processes are called **mutually exclusive** if they do not share a common outcome. This depends on what you take as an outcome:
 
