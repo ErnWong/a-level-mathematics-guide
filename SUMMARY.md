@@ -17,4 +17,5 @@
    * [Permutations](permutations_and_combinations/permutations.md)
    * [Examples of Permutations](permutations_and_combinations/examples_of_permutations.md)
    * [Combinations](permutations_and_combinations/combinations.md)
+   * [Grouping](permutations_and_combinationsgrouping.md)
 
