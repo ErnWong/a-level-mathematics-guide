@@ -12,7 +12,7 @@ The thing you do is usually called a **process**, or an operation. In the previo
 
 Rolling a die/dice, flipping a coin, and arranging people in a line are commonly processes used in perms and combs.
 
-What is an *outcome*? An **outcome** of a process is a result from doing the process. For example, getting a “3” from rolling a die, or choosing the first T-shirt, are both outcomes from their respective processes.
+What is an *outcome*? An **outcome** of a process is a result from doing the process. For example, getting a ``3'' from rolling a die, or choosing the first T-shirt, are both outcomes from their respective processes.
 
 The idea of processes and outcomes are also used in probability, as you will see later chapters.
 

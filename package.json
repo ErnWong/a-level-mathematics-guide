@@ -1,6 +1,6 @@
 {
     "dependencies": {
 		"gitbook-plugin-richquotes": "0.0.3",
-		"gitbook-plugin-punctuate": ">=0.0.2"
+		"gitbook-plugin-punctuate": ">=0.0.4"
 	}
 }
