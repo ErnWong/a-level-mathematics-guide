@@ -1,2 +1,9 @@
-# Watch this space guys!
+
+
+-----
+
+# Chapter Six<br />Quadratics
+
+-----
+
 

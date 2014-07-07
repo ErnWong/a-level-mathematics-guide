@@ -1,4 +1,10 @@
+
+
+-----
+
 # Chapter Five<br />Permutations and Combination
+
+-----
 
 Permutations and combinations (a.k.a. perms and combs) is about counting possibilities.
 

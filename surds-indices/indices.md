@@ -1,3 +1,4 @@
 # Index Notation
-> Watch this space guys!
+
+We can generalise (make things simpler) powers of a number, as mentioned [before](powers.md).
 

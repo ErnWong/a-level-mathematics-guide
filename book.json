@@ -1,7 +1,8 @@
 {
     "plugins": [
         "richquotes",
-        "punctuate"
+        "punctuate",
+        "anchors"
     ],
     "pluginsConfig": {
         "fontSettings": {
