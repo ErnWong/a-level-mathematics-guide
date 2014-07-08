@@ -2,7 +2,7 @@
 
 -----
 
-# Chapter Two<br />Coordinate Geometry
+# Chapter 2<br />Coordinate Geometry
 
 -----
 

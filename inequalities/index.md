@@ -2,7 +2,7 @@
 
 -----
 
-# Chapter Seven<br />Inequalities
+# Chapter 7<br />Inequalities
 
 -----
 

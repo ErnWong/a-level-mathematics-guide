@@ -2,9 +2,15 @@
 
 A **rational number** is a number that can be written as a fraction of two [integers](integers.md).
 
-All integers are also rational numbers, because integer \\(x=\frac{x}{1}\\), a *fraction of two integers*.
+All integers are also rational numbers, because integer \\(x=\frac{x}{1}\\), which is a *fraction of two integers*.
 
-If the decimal part is finite, or repeats indefinitely, then this number is also a rational number; it can also be written as a fraction of two integers.
+Also: a number is rational if:
+
+ - the decimal part terminates (ends somewhere like ``3.25'')
+ - or the decimal part repeats indefinitely (e.g. ``2.135135135...'',
+
+because they can be written as a fraction of two integers.
+
 
 ## Examples
 

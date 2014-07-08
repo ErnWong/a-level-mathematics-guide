@@ -2,7 +2,7 @@
 
 -----
 
-# Chapter One<br />Surds And Indices
+# Chapter 1<br />Surds And Indices
 
 -----
 
@@ -13,4 +13,6 @@ One day, you learnt that you can repeatedly add a number, which you now know as 
 
 \\[a \times n = \underbrace{a+a+a+\dotsb+a}_{\text{\\(n\\) times}}\\]
 
-Can you repeat multiplication? Sure! This is what this chapter's about.
+Can you repeat multiplication?
+
+Sure! This is what this chapter's about.

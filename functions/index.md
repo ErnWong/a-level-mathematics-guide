@@ -2,7 +2,7 @@
 
 -----
 
-# Chapter Eight<br />Functions
+# Chapter 8<br />Functions
 
 -----
 

@@ -2,7 +2,7 @@
 
 ----
 
-# Chapter Fifteen<br />Radians
+# Chapter 15<br />Radians
 
 ----
 

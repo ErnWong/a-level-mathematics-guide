@@ -2,7 +2,7 @@
 
 -----
 
-# Chapter Nine<br />Factorials
+# Chapter 9<br />Factorials
 
 -----
 

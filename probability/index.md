@@ -2,7 +2,7 @@
 
 -----
 
-# Chapter Ten<br />Probability
+# Chapter 10<br />Probability
 
 -----
 

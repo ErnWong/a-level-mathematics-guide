@@ -2,7 +2,7 @@
 
 -----
 
-# Chapter Four<br />Representation of Data
+# Chapter 4<br />Representation of Data
 
 -----
 

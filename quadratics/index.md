@@ -2,7 +2,7 @@
 
 -----
 
-# Chapter Six<br />Quadratics
+# Chapter 6<br />Quadratics
 
 -----
 

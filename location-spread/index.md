@@ -2,7 +2,7 @@
 
 -----
 
-# Chapter Five<br />Measures of Location and Spread
+# Chapter 5<br />Measures of Location and Spread
 
 -----
 

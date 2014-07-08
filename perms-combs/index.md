@@ -2,7 +2,7 @@
 
 -----
 
-# Chapter Five<br />Permutations and Combination
+# Chapter 11<br />Permutations and Combination
 
 -----
 

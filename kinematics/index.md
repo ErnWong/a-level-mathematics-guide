@@ -2,7 +2,7 @@
 
 -----
 
-# Chapter Three<br />Displacement, Velocity and Acceleration
+# Chapter 3<br />Displacement, Velocity and Acceleration
 
 -----
 

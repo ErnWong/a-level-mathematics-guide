@@ -8,7 +8,7 @@ Example: the numbers \\(1\\), \\(5\\), \\(0\\), and \\(-234\\), are all integers
 
 ## Set of Integers
 
-Integers can be grouped together into a set. We call this as the **set of integers**, labelled as \\(\mathbb{Z}\\) for the German word *Zahlen* meaning ``numbers''.
+Integers can be grouped together into a **set**. We call this as the **set of integers**, labelled as \\(\mathbb{Z}\\) for the German word *Zahlen* meaning ``numbers''.
 
 \\[\mathbb{Z} = \\{\dotsc, -4, -3, -2, -1, 0, 1, 2, 3, 4, \dotsc\\}.\\]
 
