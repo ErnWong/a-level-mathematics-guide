@@ -2,16 +2,73 @@
 
 If you multiply two numbers with the same base together, you'll find that
 
-\\[a^m \times a^n = a^{m+n}\,.\\]
+\\[\color{#a31500}{a^m} \times \color{#009828}{a^n} = a^{\color{#a31500}{m}+\color{#009828}{n}}\,.\\]
 
-This is because \\begin{align}
-a^m &= \underbrace{a \times \dotsb \times a}\_{\text{\\(m\\) times}}, && \text{and}\\\\
-a^n &= \underbrace{a \times \dotsb \times a}\_{\text{\\(n\\) times}}
+This is because
+\\begin{align}
+\color{#a31500}{
+    a^m
+}&=
+\underbrace{
+    \color{#a31500}{
+        a \times \dotsb \times a
+    }
+}\_{
+    \color{#a31500}{
+        \text{\\(m\\) times}
+    }
+}
+, && \text{and}\\\\
+\color{#009828}{
+    a^n
+}&=
+\underbrace{
+    \color{#009828}{
+        a \times \dotsb \times a
+    }
+}\_{
+    \color{#009828}{
+        \text{\\(n\\) times}
+    }
+}
 \\end{align}
 so if you multiply them together, you will get
 \\begin{align}
-a^m \times a^n &= \overbrace{a \times \dotsb \times a}^{\text{\\(m\\) times}} \times \overbrace{a \times \dotsb \times a}^{\text{\\(n\\) times}}\\\\
-&= \underbrace{a \times \dotsb \times a \times a \times \dotsb \times a}_{\text{\\(m+n\\) times}}
+\color{#a31500}{a^m}
+\times
+\color{#009828}{a^n}
+&=
+\overbrace{
+    \color{#a31500}{
+        a \times \dotsb \times a
+    }
+}^{
+    \color{#a31500}{
+        \text{\\(m\\) times}
+    }
+}
+\times
+\overbrace{
+    \color{#009828}{
+        a \times \dotsb \times a
+    }
+}^{
+    \color{#009828}{
+        \text{\\(n\\) times}
+    }
+}
+\\\\
+&= \underbrace{
+    \color{#a31500}{
+        a \times \dotsb \times a
+    }
+    \times
+    \color{#009828}{
+        a \times \dotsb \times a
+    }
+}_{
+    \text{\\(m+n\\) times}
+}
 &=a^{m+n}\,.
 \\end{align}
 
