@@ -14,9 +14,13 @@ We write \\(b^n\\), and say ``\\(b\\) to the power \\(m\\)''. This way of writin
 
 It's useful to see that any number, when squared, will always be positive or zero.
 
+![It's called ``square'' because it equals the area of a square with the given side length](squaring.svg "Area of Square = Square of Side Length")
+
 ## Cubes
 
 Similarly, **cubing** raises a number to the power of three.
+
+![It's called ``cube'' because it equals the volume of a cube with the given side length](cubing.svg "Volume of Cube = Cube of Side Length")
 
 ## Naming This Operation
 
